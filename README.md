@@ -1,12 +1,12 @@
 # Currency Converter
 
-This simple currency converter is a Python script that uses the Open Exchange Rates API to convert between different currencies. It retrieves the latest exchange rates and performs currency conversions based on user input.
+This simple currency converter is a Python script that uses the Open Exchange Rates API to convert between different currencies. It retrieves the latest exchange rates and performs currency conversions based on user input. Users can interact with program through user-friendly GUI
 
 ## Features
 
 - Convert between various currencies.
 - Retrieve real-time exchange rates from the Open Exchange Rates API.
-- Easy-to-use command-line interface.
+- Easy-to-use GUI.
 
 ## Prerequisites
 
@@ -55,7 +55,7 @@ Before using the currency converter, make sure you have the following:
 ## Usage
 
 - Enter the original currency, amount, and target currency when prompted.
-- The script will display the converted amount based on the latest exchange rates.
+- The interface will display the converted amount based on the latest exchange rates.
 
 ## Contributing
 
