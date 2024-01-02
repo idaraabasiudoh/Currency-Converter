@@ -106,7 +106,7 @@ class CurrencyConverterApp(App):
             currency_2 = all_currency[f'{from_currency}']
 
             # Display the result
-            result_text = f"\n\n{currency_1} to {currency_2}\nExchange rate:  ~{to_currency} {rate:.2f} per {from_currency.upper()}\n\n{from_currency.upper()} {amount_to_convert:.2f}  ≈  {to_currency.upper()} {converted_amount:.2f}\nCurrent Time:  {current_time}\n\n"
+            result_text = f"\n\n{currency_2} to {currency_1}\nExchange rate:  ~{to_currency} {rate:.2f} per {from_currency.upper()}\n\n{from_currency.upper()} {amount_to_convert:.2f}  ≈  {to_currency.upper()} {converted_amount:.2f}\nCurrent Time:  {current_time}\n\n"
             self.result_label.text = result_text
         else:
             # Display an error message if the conversion fails
