@@ -20,7 +20,7 @@ Before using the currency converter, make sure you have the following:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/currency-converter.git
+    git clone https://github.com/idaraabasiudoh/currency-converter.git
     ```
 
 2. Navigate to the project directory:
