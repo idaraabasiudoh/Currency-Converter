@@ -32,7 +32,7 @@ Before using the currency converter, make sure you have the following:
 3. Install dependencies:
 
     ```bash
-    pip install -r requirements.txt
+    pip3 install -r requirements.txt
     ```
 
 4. Set up your API key:
@@ -47,7 +47,7 @@ Before using the currency converter, make sure you have the following:
 5. Run the script:
 
     ```bash
-    python currency_converter.py
+    python3 tk_currency_converter.py
     ```
 
 6. Follow the on-screen prompts to perform currency conversions.
