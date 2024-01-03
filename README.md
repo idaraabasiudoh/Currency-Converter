@@ -57,6 +57,22 @@ Before using the currency converter, make sure you have the following:
 - Enter the original currency, amount, and target currency when prompted.
 - The interface will display the converted amount based on the latest exchange rates.
 
+## MacOS Software Guide
+
+For users operating `MacOS`, currency-converter software is availbale as **"Rapid Rates"** for everyday use or testing on local computer as MacOS application. Follow steps below for installation guide:
+
+- Download [Rapid Rates app for Mac](https://drive.google.com/uc?export=download&id=1FxyEmntl9X6TbtusIBEjEDM0ZZd6iNiW)
+- Unzip downloaded file and run application.
+- Usually, you should recieve the error below that prevents application run:
+  
+  ![Error](https://github.com/idaraabasiudoh/ERROR/blob/main/ERROR.png)
+
+- While the option to proceed is available for those willing to accept associated risks, it is crucial to exercise caution. To proceed at your own risk, navigate to ``System settings -> Privacy & Security -> Security``
+- Under `Security`, locate dialog frame displaying ``"Rapid Rates.app" was blocked from use because it is not from an identified developer``
+- Select `Open Anyways`, complete security check and select `open` on new pop-up window to run software securely.
+
+- **DISCLAIMER:** The utilization of the software is undertaken entirely at your own risk, and the user experience may be contingent upon the specifications of your operating system. You bear full responsibility for both the installation and usage of the software. If there is any uncertainty regarding the associated risks, it is advised to refrain from proceeding with the ``MacOS Software Guide``.
+
 ## Contributing
 
 Contributions are welcome! If you'd like to improve the currency converter, feel free to submit pull requests or open issues.
